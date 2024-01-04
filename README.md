@@ -45,6 +45,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 Projeto desenvolvido por Cauã Couto na formação Java e Spring Boot pela [Alura](https://www.alura.com.br).
 
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
+Instrutor da formação: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
 
 ---
